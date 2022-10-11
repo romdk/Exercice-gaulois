@@ -4,3 +4,4 @@ SELECT COUNT(*),id_lieu
 FROM personnage
 GROUP BY id_lieu
 ORDER BY count(*)DESC
+
